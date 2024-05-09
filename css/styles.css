@@ -1,5 +1,35 @@
-h1{
-    text-align: center;
-    justify-content: center;
-    font-family: Arial, Helvetica, sans-serif;
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #1e2023;
+}
+
+header {
+  display: flex;
+  justify-content: space-around;
+  border-bottom: 1px solid grey;
+  padding: 15px;
+}
+
+nav ul {
+  display: flex;
+  list-style-type: none;
+}
+
+nav ul li {
+  margin: 5px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container-plataforma {
+  display: flex;
+  align-items: center;
 }
