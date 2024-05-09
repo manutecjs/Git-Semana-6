@@ -46,4 +46,30 @@ nav ul li a {
     color: white;
 }
 
+h1{
+    margin-top: 25px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 3rem;
+}
 
+p{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 25px;
+}
+
+section a{
+    background-color: yellow;
+    color: black;
+    padding: 15px;
+    border-radius: 15px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    text-align: center;
+    width: 120px;
+    margin: auto;
+}
