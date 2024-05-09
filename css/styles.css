@@ -73,3 +73,20 @@ section a{
     width: 120px;
     margin: auto;
 }
+
+.profe-coder{
+    display: flex;
+    align-items: center;
+    margin: 35px;
+}
+
+.profe-coder img{
+    width: 50%;
+}
+
+.profe-coder h2{
+    color: white;
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
